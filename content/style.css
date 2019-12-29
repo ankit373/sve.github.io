@@ -204,7 +204,7 @@ article, aside, details, footer, header, menu, nav, section {
     .slider-holder span.slider-b {
         background: url(../image/slider-bottom.png) no-repeat 0 0;
         width: 990px;
-        height: 30px;
+        height: 40px;
         position: absolute;
         bottom: 0px;
         left: 0px;
@@ -224,7 +224,7 @@ article, aside, details, footer, header, menu, nav, section {
 
 .slider {
     width: 990px;
-    height: 378px;
+    height: 420px;
     position: relative;
     background: url(../image/slide-img.png) no-repeat 0 0;
 }
