@@ -34,7 +34,7 @@ a {
     }
 
     a.more {
-        color: #2b9208;
+        color: #110892;
         text-decoration: underline;
         padding-left: 11px;
         background: url(../image/arr-ico.png) no-repeat 0 5px;
@@ -108,7 +108,7 @@ article, aside, details, footer, header, menu, nav, section {
 }
 
     #logo a {
-        height: 42px;
+        height: 92px;
         display: block;
         background: url(../image/logo.png) no-repeat 0 0;
         text-indent: -4000px;
