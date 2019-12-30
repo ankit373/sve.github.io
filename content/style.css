@@ -587,7 +587,7 @@ article, aside, details, footer, header, menu, nav, section {
             .footer-bottom .footer-nav ul li {
                 display: inline;
                 font-size: 11px;
-                color: #f7984a;
+                color: #dda67a;
                 border-left: 1px solid #1a1f20;
                 padding: 0 11px;
             }
@@ -619,7 +619,7 @@ article, aside, details, footer, header, menu, nav, section {
         }
 
         .footer-bottom p.copy a {
-            color: #b9c2f5e3;
+            color: #eb8642f1;
             text-decoration: underline;
         }
 
