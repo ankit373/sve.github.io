@@ -88,7 +88,7 @@ article, aside, details, footer, header, menu, nav, section {
 }
 
 .container {
-    background: #fff;
+    background: rgb(236, 191, 161);
     box-shadow: 0px 0px 13px rgba(0,0,0,0.3);
     -moz-box-shadow: 0px 0px 13px rgba(0,0,0,0.3);
     -webkit-box-shadow: 0px 0px 13px rgba(0,0,0,0.3);
@@ -121,8 +121,8 @@ article, aside, details, footer, header, menu, nav, section {
 }
 
     .search input.field {
-        border: 1px solid #d6d6d6;
-        background: #ededed;
+        border: 1px solid #f18f4e;
+        background: #f8c09a;
         width: 166px;
         height: 24px;
         line-height: 22px;
@@ -130,7 +130,7 @@ article, aside, details, footer, header, menu, nav, section {
         float: left;
         font-size: 11px;
         font-family: verdana, arial, helvetica, serif;
-        color: #bebebe;
+        color: #f8c09a;
         border-radius: 5px;
         -moz-border-radius: 5px;
         -webkit-border-radius: 5px;
@@ -179,7 +179,7 @@ article, aside, details, footer, header, menu, nav, section {
             #navigation ul li a {
                 display: block;
                 padding: 0 32px 0 28px;
-                color: #878787;
+                color: #f8c09a;
             }
 
                 #navigation ul li a:hover,
@@ -267,14 +267,14 @@ article, aside, details, footer, header, menu, nav, section {
                     font-size: 44px;
                     line-height: 44px;
                     padding-bottom: 16px;
-                    color: #fff;
+                    color: #f8c09a;
                     text-shadow: rgba(0,0,0,0.4) 0px 1px 2px;
                     font-family: 'Ubuntu', sans-serif;
                     font-weight: 700;
                 }
 
                 .slider ul.slides li .slide-cnt p {
-                    color: #fff;
+                    color: #f8c09a;
                     font-size: 14px;
                     padding-bottom: 22px;
                 }
