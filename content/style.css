@@ -529,7 +529,7 @@ article, aside, details, footer, header, menu, nav, section {
 
     #footer h2 {
         font-size: 23px;
-        color: #fff;
+        color: rgb(198, 206, 243);
         font-family: 'Ubuntu', sans-serif;
         font-weight: 400;
         padding-bottom: 18px;
