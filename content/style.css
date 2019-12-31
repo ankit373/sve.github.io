@@ -12,7 +12,7 @@ body {
     font-size: 12px;
     line-height: 22px;
     font-family: arial, sans-serif;
-    color: #828282;
+    color: #020f29;
     background: url(../image/body.png) repeat 0 0;
     min-width: 100%;
 }
@@ -108,11 +108,12 @@ article, aside, details, footer, header, menu, nav, section {
 }
 
     #logo a {
-        height: 92px;
+        height: 120px;
+        
         display: block;
         background: url(../image/logo.png) no-repeat 0 0;
         text-indent: -4000px;
-        width: 283px !important;
+        width: 483px !important;
         /*margin-left: -156px!important;*/
     }
 
@@ -179,7 +180,7 @@ article, aside, details, footer, header, menu, nav, section {
             #navigation ul li a {
                 display: block;
                 padding: 0 32px 0 28px;
-                color: #f17523;
+                color: #994106;
             }
 
                 #navigation ul li a:hover,
@@ -203,7 +204,7 @@ article, aside, details, footer, header, menu, nav, section {
 
     .slider-holder span.slider-b {
         background: url(../image/slider-bottom.png) no-repeat 0 0;
-        width: 200px;
+        width: 990px;
         height: 40px;
         position: absolute;
         bottom: 0px;
@@ -307,7 +308,7 @@ article, aside, details, footer, header, menu, nav, section {
 }
 
 .main {
-    padding: 47px 0px 0px;
+    padding: 87px 0px 0px;
     background: url(../image/main.png) repeat-x 0 0;
 }
 
@@ -379,7 +380,7 @@ article, aside, details, footer, header, menu, nav, section {
                 float: left;
                 /*width: 129px;
                 height: 108px;*/
-                height: 200px;
+                height: 120px;
                 width: 105px;
                 margin-left: 16px;
             }
@@ -637,7 +638,7 @@ article, aside, details, footer, header, menu, nav, section {
   width: 890px;
 }
 .Contact {
-  color: #828282 !important;
+  color: #c1d6fd !important;
   display: block !important;
   font-family: arial,sans-serif;
   font-size: 14px;
@@ -655,7 +656,7 @@ article, aside, details, footer, header, menu, nav, section {
 }
 /*vision*/
 .vision{
-  color: #828282 !important;
+  color: #c1d6fd !important;
   display: block !important;
   font-family: arial,sans-serif;
   font-size: 14px !important;
@@ -668,7 +669,7 @@ article, aside, details, footer, header, menu, nav, section {
   width: 820px;
 }
 .mission {
-  color: #828282 !important;
+  color: #c1d6fd !important;
   display: block !important;
   font-family: arial,sans-serif;
   font-size: 14px !important;
@@ -701,7 +702,7 @@ article, aside, details, footer, header, menu, nav, section {
   margin-left: 288px;
 }
 .about-head {
-  color: #828282;
+  color: #c1d6fd;
   display: block;
   font-size: 18px;
   line-height: 29px;
@@ -720,7 +721,7 @@ article, aside, details, footer, header, menu, nav, section {
     margin-left: 428px;
 }
 .Adservice {
-  color: #828282 !important;
+  color: #c1d6fd !important;
   display: block !important;
   font-family: arial,sans-serif;
   font-size: 14px !important;
@@ -733,7 +734,7 @@ padding-bottom: 70px;
   width: 820px;
 }
 .service {
-  color: #828282 !important;
+  color: #c1d6fd !important;
   display: block !important;
   font-family: arial,sans-serif;
   font-size: 14px !important;
@@ -1168,7 +1169,7 @@ padding-bottom: 70px;
             height: 39px;
             text-align: center;
             line-height: 39px;
-            border: 1px solid #9e9f9f;
+            border: 1px solid #d1d3d3;
             border-radius: 6px;
             -moz-border-radius: 6px;
             -webkit-border-radius: 6px;
@@ -1176,8 +1177,8 @@ padding-bottom: 70px;
             display: block;
             font-weight: bold;
             font-size: 18px;
-            color: #636363;
-            text-shadow: rgba(255,255,255,0.4) 0px 1px 0px;
+            color: #dae6fd;
+            text-shadow: rgba(228, 226, 226, 0.336) 0px 1px 0px;
         }
             .main a.m-btn-grey:hover {
                 background-position: 0 bottom;
@@ -1315,7 +1316,7 @@ padding-bottom: 70px;
 /*mobile css*/
 
     .about-head {
-  color: #828282;
+  color: #c1d6fd;
   display: block;
   font-size: 13px;
   line-height: 12px;
